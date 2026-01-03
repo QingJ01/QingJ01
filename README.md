@@ -87,3 +87,16 @@ Hi there, I'm QingJ01 👋
 <div align="center">
   <i>Let's code the future together! 🌟</i>
 </div>
+<br/>
+
+<div align="center">
+  <p>
+    <strong>Sponsored by</strong>
+  </p>
+  <a href="https://vps.town/" target="_blank">
+    <img src="https://vps.town/static/images/sponsor.png" alt="VPS.Town - Reliable VPS Hosting" width="200" />
+  </a>
+  <p>
+    <em>Reliable VPS hosting solutions for developers</em>
+  </p>
+</div>
