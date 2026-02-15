@@ -20,7 +20,7 @@ Hi there, I'm QingJ01 👋
       
 - 🔭 I’m currently learning **YOLOv11 and Python** (Progress is slow but steady! 🐢)
 - 🌱 I’m currently working on **[OneLook](https://github.com/QingJ01/onelook)**
-**[QListen](https://github.com/QingJ01/QListen)** **[CodeDiary](https://github.com/QingJ01/CodeDiary)**
+**[Agent-Zhihu](https://github.com/QingJ01/Agent-Zhihu)** **[Axiom](https://github.com/QingJ01/Axiom)**
 - 💬 Ask me about **AI, Front-end/Back-end development, or Creative ideas**
 - ⚡ Fun fact: **Always exploring new AI tools like Claude & Gemini**
 - 📫 Reach me at: **qingj1314@163.com**
