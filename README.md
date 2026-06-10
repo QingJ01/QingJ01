@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=QingJ01&fontSize=70&fontAlignY=35&desc=不知名开发者%20·%20想睡觉%20💤&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=QingJ01&fontSize=70&fontAlignY=35&desc=独立开发者 & AI 自媒体💤&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/QingJ01">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2E91F7&center=true&vCenter=true&width=600&lines=Building+in+public+since+day+one;Full+Stack+Developer+%7C+AI+Tinkerer;Always+shipping%2C+always+learning..." alt="Typing SVG" />
